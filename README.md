@@ -202,9 +202,7 @@ The auto-rename function removes:
 
 ## 🤝 Support
 
-- **Support Chat**: [@XBOTSUPPORTS](https://t.me/XBOTSUPPORTS)
-- **Update Channel**: [@BeesonsBots](https://t.me/BeesonsBots)
-- **Demo Bot**: [@FileRenameebot](https://t.me/FileRenameebot)
+- **Support Chat**: [@MC CINEMAS](https://t.me/MC_CINEMAS)
 
 ## 📄 License
 
@@ -247,6 +245,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - ✅ Auto-rename mode available
 
 ---
-
-**Made with ❤️ by [Beesonn](https://github.com/Beesonn)**
 
