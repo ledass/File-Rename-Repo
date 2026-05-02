@@ -30,8 +30,8 @@ async def home(_, cq):
             InlineKeyboardButton("⚙️ Help", callback_data="help"),
         ],
         [
-            InlineKeyboardButton("🌐 Support Chat", url="https://t.me/XBOTSUPPORTS"),
-            InlineKeyboardButton("📢 Update Channel", url="https://t.me/BeesonsBots")
+            InlineKeyboardButton("🌐 Support Chat", url="https://t.me/MC_CINEMAS"),
+            
         ]
     ]
 
@@ -53,11 +53,11 @@ async def start(_, m):
     buttons = [
         [
             InlineKeyboardButton("⚙️ Help", callback_data="help"),
-            InlineKeyboardButton("GitHub", url="https://github.com/Beesonn/RenameBot"),
+            
         ],
         [
-            InlineKeyboardButton("🌐 Support Chat", url="https://t.me/XBOTSUPPORTS"),
-            InlineKeyboardButton("📢 Update Channel", url="https://t.me/BeesonsBots")
+            InlineKeyboardButton("🌐 Support Chat", url="https://t.me/MC_CINEMAS"),
+            
         ]
     ]
 
